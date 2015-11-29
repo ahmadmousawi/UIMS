@@ -7,6 +7,6 @@
  */
 echo "La Commission...";
 echo '<br> Fareed Is IN!<br>';
-echo 'push without sync<br>';
+echo 'push without sync...<br>';
 echo 'Ahmad : push without sync...<br>';
 ?>
