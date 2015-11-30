@@ -26,7 +26,7 @@ try {
             "host" => "localhost",
             "username" => "root",
             "password" => "",
-            "dbname" => "test"
+            "dbname" => "test_DB"
         ));
     });
 
