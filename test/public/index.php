@@ -26,7 +26,7 @@ try {
         $view->setViewsDir('../app/views/');
         return $view;
     });
-// Setup a base URI so that all generated URIs include the "tutorial" folder
+// Setup a base URI so that all generated URIs include the "test" folder
     $di->set('url', function () {
         $url = new UrlProvider();
         $url->setBaseUri('/test/');
